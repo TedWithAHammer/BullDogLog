@@ -1,1 +1,1 @@
-include ':app', ':beeflog'
+include ':app', ':bulldoglogger'

@@ -1,4 +1,4 @@
-package com.leo.beeflog;
+package com.leo.bulldoglog;
 
 import org.junit.Test;
 

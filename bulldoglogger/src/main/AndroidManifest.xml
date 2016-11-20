@@ -1,4 +1,4 @@
-<manifest package="com.leo.beeflog"
+<manifest package="com.leo.bulldoglog"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application android:allowBackup="true"
