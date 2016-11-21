@@ -35,6 +35,9 @@ public class LogSettings {
         this.logEnable = logEnable;
     }
 
+    public LogSettings() {
+        init();
+    }
 
     public void init() {
         logEnable = true;

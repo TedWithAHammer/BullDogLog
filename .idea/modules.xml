@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LogTest.iml" filepath="$PROJECT_DIR$/LogTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BullDogLog.iml" filepath="$PROJECT_DIR$/BullDogLog.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/beeflog/beeflog.iml" filepath="$PROJECT_DIR$/beeflog/beeflog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bulldoglogger/bulldoglogger.iml" filepath="$PROJECT_DIR$/bulldoglogger/bulldoglogger.iml" />
     </modules>
   </component>
 </project>
