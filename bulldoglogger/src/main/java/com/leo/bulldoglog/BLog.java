@@ -22,7 +22,7 @@ public class BLog {
     /*format part*/
 
     private static final String horizontalLine = "****************************************************************************************************";//count 100
-    private static final String potraitLine = "*";
+    private static final String portraitLine = "*";
 
     public static void init() {
         settings = new LogSettings();
@@ -94,13 +94,13 @@ public class BLog {
 
     private static String formatMsg(String msg) {
         StringBuilder sb = new StringBuilder();
-        sb.append(potraitLine);
+        sb.append(portraitLine);
         sb.append(msg);
         int length = sb.length();
         for (int i = 0; i < 99 - length; i++) {
             sb.append(" ");
         }
-        sb.append(potraitLine);
+        sb.append(portraitLine);
         return sb.toString();
     }
 

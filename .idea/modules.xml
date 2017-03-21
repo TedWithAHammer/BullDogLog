@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BullDogLog.iml" filepath="$PROJECT_DIR$/BullDogLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BullDogLog.iml" filepath="$PROJECT_DIR$/BullDogLog.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bulldoglogger/bulldoglogger.iml" filepath="$PROJECT_DIR$/bulldoglogger/bulldoglogger.iml" />
       <module fileurl="file://$PROJECT_DIR$/bulldoglogger/bulldoglogger.iml" filepath="$PROJECT_DIR$/bulldoglogger/bulldoglogger.iml" />
     </modules>
   </component>
